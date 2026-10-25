@@ -1,109 +1,110 @@
 {
-  "test_count": 538,
-  "metal_accuracy": 0.8531598513011153,
-  "metal_tec": 0.14684014869888473,
-  "metal_macro_precision": 0.8773388392671255,
-  "metal_macro_recall": 0.8574174139312489,
-  "metal_macro_f1": 0.8607682531328396,
-  "conc_accuracy": 0.9907063197026023,
-  "conc_tec": 0.009293680297397744,
-  "conc_macro_precision": 0.9910836267524848,
-  "conc_macro_recall": 0.9908343862925381,
-  "conc_macro_f1": 0.9909312481204985,
-  "conc_mapped_mae_qer": 0.929368029739777,
-  "conc_qwk": 0.9941931712889931,
+  "test_count": 818,
+  "unique_spots_in_test": 632,
+  "metal_accuracy": 0.9266503667481663,
+  "metal_tec": 0.07334963325183375,
+  "metal_macro_precision": 0.9455583613353085,
+  "metal_macro_recall": 0.9341580428858645,
+  "metal_macro_f1": 0.9361390006311996,
+  "conc_accuracy": 0.9743276283618582,
+  "conc_tec": 0.025672371638141844,
+  "conc_macro_precision": 0.9741855668619708,
+  "conc_macro_recall": 0.9750347185119015,
+  "conc_macro_f1": 0.9744462173519254,
+  "conc_mapped_mae_qer": 2.0048899755501224,
+  "conc_qwk": 0.9850356303227482,
   "per_metal": {
     "Copper": {
-      "precision": 0.7529411764705882,
-      "recall": 0.8767123287671232,
-      "f1-score": 0.810126582278481,
-      "support": 73.0
+      "precision": 0.71875,
+      "recall": 0.9663865546218487,
+      "f1-score": 0.8243727598566308,
+      "support": 119.0
     },
     "Mercury": {
+      "precision": 0.9545454545454546,
+      "recall": 0.8467741935483871,
+      "f1-score": 0.8974358974358975,
+      "support": 124.0
+    },
+    "Palladium": {
+      "precision": 1.0,
+      "recall": 0.8796296296296297,
+      "f1-score": 0.9359605911330049,
+      "support": 108.0
+    },
+    "Zinc": {
+      "precision": 0.9489795918367347,
+      "recall": 0.8303571428571429,
+      "f1-score": 0.8857142857142857,
+      "support": 112.0
+    },
+    "Cadmium": {
+      "precision": 0.9903846153846154,
+      "recall": 0.9626168224299065,
+      "f1-score": 0.976303317535545,
+      "support": 107.0
+    },
+    "Silver": {
+      "precision": 0.9518072289156626,
+      "recall": 0.9875,
+      "f1-score": 0.9693251533742331,
+      "support": 80.0
+    },
+    "Chromium": {
       "precision": 1.0,
       "recall": 1.0,
       "f1-score": 1.0,
-      "support": 62.0
-    },
-    "Palladium": {
-      "precision": 0.7142857142857143,
-      "recall": 0.9482758620689655,
-      "f1-score": 0.8148148148148148,
-      "support": 58.0
-    },
-    "Zinc": {
-      "precision": 0.6352941176470588,
-      "recall": 0.7397260273972602,
-      "f1-score": 0.6835443037974683,
-      "support": 73.0
-    },
-    "Cadmium": {
-      "precision": 0.9516129032258065,
-      "recall": 0.8428571428571429,
-      "f1-score": 0.8939393939393939,
-      "support": 70.0
-    },
-    "Silver": {
-      "precision": 1.0,
-      "recall": 0.8181818181818182,
-      "f1-score": 0.9,
-      "support": 66.0
-    },
-    "Chromium": {
-      "precision": 0.9818181818181818,
-      "recall": 0.8307692307692308,
-      "f1-score": 0.9,
-      "support": 65.0
+      "support": 89.0
     },
     "Lead": {
-      "precision": 0.9827586206896551,
-      "recall": 0.8028169014084507,
-      "f1-score": 0.8837209302325582,
-      "support": 71.0
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 79.0
     }
   },
   "per_conc": {
     "0": {
-      "precision": 1.0,
+      "precision": 0.9770114942528736,
       "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 86.0
+      "f1-score": 0.9883720930232558,
+      "support": 85.0
     },
     "10": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 73.0
+      "precision": 0.9821428571428571,
+      "recall": 0.9482758620689655,
+      "f1-score": 0.9649122807017544,
+      "support": 116.0
     },
     "50": {
-      "precision": 0.9878048780487805,
-      "recall": 0.9759036144578314,
-      "f1-score": 0.9818181818181818,
-      "support": 83.0
+      "precision": 0.9402985074626866,
+      "recall": 0.9545454545454546,
+      "f1-score": 0.9473684210526315,
+      "support": 132.0
     },
     "100": {
-      "precision": 0.9850746268656716,
-      "recall": 1.0,
-      "f1-score": 0.9924812030075187,
-      "support": 66.0
+      "precision": 0.9375,
+      "recall": 0.9813084112149533,
+      "f1-score": 0.958904109589041,
+      "support": 107.0
     },
     "150": {
-      "precision": 0.9764705882352941,
-      "recall": 0.9880952380952381,
-      "f1-score": 0.9822485207100592,
-      "support": 84.0
+      "precision": 0.991869918699187,
+      "recall": 0.976,
+      "f1-score": 0.9838709677419355,
+      "support": 125.0
     },
     "200": {
       "precision": 1.0,
-      "recall": 0.9836065573770492,
-      "f1-score": 0.9917355371900827,
-      "support": 61.0
+      "recall": 0.9931506849315068,
+      "f1-score": 0.9965635738831615,
+      "support": 146.0
     },
     "250": {
-      "precision": 0.9882352941176471,
-      "recall": 0.9882352941176471,
-      "f1-score": 0.9882352941176471,
-      "support": 85.0
+      "precision": 0.9904761904761905,
+      "recall": 0.9719626168224299,
+      "f1-score": 0.9811320754716981,
+      "support": 107.0
     }
   }
 }

@@ -1,0 +1,34 @@
+{
+  "Color_Histogram_RF": {
+    "model": "Color Histogram + Random Forest",
+    "metal_accuracy": 0.882640586797066,
+    "conc_accuracy": 0.8288508557457213,
+    "conc_mapped_mae": 16.369193154034228,
+    "conc_qwk": 0.8607864143643364,
+    "parameters": "N/A"
+  },
+  "Single_Task_ResNet18": {
+    "model": "Single-Task ResNet-18 (Separate Models)",
+    "metal_accuracy": 0.9278728606356969,
+    "conc_accuracy": 0.9718826405867971,
+    "conc_mapped_mae": 3.0929095354523226,
+    "conc_qwk": 0.9659056999413257,
+    "parameters": "22.36M"
+  },
+  "Multi_Task_MobileNetV2": {
+    "model": "Multi-Task MobileNetV2",
+    "metal_accuracy": 0.9303178484107579,
+    "conc_accuracy": 0.9572127139364304,
+    "conc_mapped_mae": 3.9486552567237165,
+    "conc_qwk": 0.9670476861876227,
+    "parameters": "2.24M"
+  },
+  "Proposed_MTFINet": {
+    "model": "Proposed MTFINet (Multi-Task ResNet-18)",
+    "metal_accuracy": 0.9267,
+    "conc_accuracy": 0.9743,
+    "conc_mapped_mae": 2.0,
+    "conc_qwk": 0.985,
+    "parameters": "11.18M"
+  }
+}
