@@ -1,0 +1,37 @@
+All the generated code, manifests, model weights, and publication-ready figures are saved directly in your existing project directories on your machine:
+
+---
+
+### 1. Code, Dataset Manifest, Model Weights & Notebooks
+**Folder:** [`/Users/royalsn/PHD/Work/Resources/Base_Model/`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/)
+
+* **The Revised Jupyter Notebook:**
+  * [`heavy_metals_revised.ipynb`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/heavy_metals_revised.ipynb) — Clean, fully modular notebook with test-set evaluation routines, metric definitions, and figure displays.
+* **Master Leakage-Safe Manifest (0% Leakage):**
+  * [`dataset_manifest_leakage_free.csv`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/dataset_manifest_leakage_free.csv) — 5,296 physical cropped images partitioned by unique sample ID into Train (3,654), Val (824), and Test (818).
+* **Newly Trained Best Model Checkpoint (92.67% Metal, 97.43% Conc):**
+  * [`best_multitask_model_leakage_free.pth`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/best_multitask_model_leakage_free.pth) — Checkpoint selected based on minimum validation loss across epochs.
+* **Test Predictions & Metrics Summary:**
+  * [`test_set_predictions.csv`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/test_set_predictions.csv) — Sample-by-sample predictions on the held-out test set.
+  * [`test_metrics_summary.json`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/test_metrics_summary.json) — Class-wise and macro precision, recall, F1, accuracy, and QWK.
+* **Automation & Analysis Python Scripts:**
+  * [`build_manifest_and_splits.py`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/build_manifest_and_splits.py) — Script used to index and group-split the dataset.
+  * [`train_leakage_free.py`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/train_leakage_free.py) — Training script with validation checkpointing.
+  * [`evaluate_test_set.py`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/evaluate_test_set.py) — Standalone evaluation script on test data.
+  * [`plot_jasco_spectrum.py`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/plot_jasco_spectrum.py) — Script to plot the spectrofluorometer emission data.
+  * [`plot_optical_quenching.py`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/plot_optical_quenching.py) — Script to extract pixel intensity calibration curves.
+  * [`jasco_fp8550_data.txt`](file:///Users/royalsn/PHD/Work/Resources/Base_Model/jasco_fp8550_data.txt) — Saved raw text of the 5 JASCO FP-8550 spectrometer scans.
+
+---
+
+### 2. Publication-Quality Figures & Manuscript Files
+**Folder:** [`/Users/royalsn/PHD/Materials/Paper_Water/`](file:///Users/royalsn/PHD/Materials/Paper_Water/)
+
+* **High-Resolution Figures (300 DPI, ready to insert into the paper):**
+  * [`leakage_free_dual_confusion_matrix.png`](file:///Users/royalsn/PHD/Materials/Paper_Water/leakage_free_dual_confusion_matrix.png) — Test-set confusion matrix for Metal and Concentration classes ($N = 818$).
+  * [`jasco_fp8550_emission_spectrum.png`](file:///Users/royalsn/PHD/Materials/Paper_Water/jasco_fp8550_emission_spectrum.png) — Carbon-dot photoluminescence emission spectra from your VIT FP-8550 spectrometer measurements across all 5 scans with replicate uncertainty.
+  * [`image_optical_quenching_curves.png`](file:///Users/royalsn/PHD/Materials/Paper_Water/image_optical_quenching_curves.png) — Image-derived fluorescence intensity and $(F_0 - F)/F_0$ quenching efficiency curves with replicate error bars.
+* **The LaTeX Manuscript:**
+  * [`revised_manuscript.tex`](file:///Users/royalsn/PHD/Materials/Paper_Water/revised_manuscript.tex) — The revised LaTeX manuscript source code.
+* **Reviewer Documents:**
+  * [`/Users/royalsn/PHD/Materials/Paper_Water/Revision/`](file:///Users/royalsn/PHD/Materials/Paper_Water/Revision/) — Folder containing the original comments (`1_Reviewer comments.docx`) and response strategies.

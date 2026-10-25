@@ -1,0 +1,47 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# macOS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Dataset files & directories (STRICT: Do not commit image datasets)
+dataset/raw/
+dataset/images/
+dataset/Cropped/
+dataset/Augmented/
+data/
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Allow PNG figures in results/figures
+*.png
+!results/figures/*.png
+
+# IDE configs
+.vscode/
+.idea/
+
+# Distribution & Build
+build/
+dist/
+*.egg-info/
