@@ -45,3 +45,4 @@ data/
 build/
 dist/
 *.egg-info/
+!real_world_spiking/results/figures/*.png

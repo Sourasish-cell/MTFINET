@@ -1,0 +1,961 @@
+image_path,water_matrix,spiked_metal,spiked_concentration_uM,replicate_id
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122647 copy.jpg,sea_water,Cadmium,10,IMG20261030122647 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122647.jpg,sea_water,Cadmium,10,IMG20261030122647.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122647_01 copy.jpg,sea_water,Cadmium,10,IMG20261030122647_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122647_01.jpg,sea_water,Cadmium,10,IMG20261030122647_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122649 copy.jpg,sea_water,Cadmium,10,IMG20261030122649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122649.jpg,sea_water,Cadmium,10,IMG20261030122649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122650 copy.jpg,sea_water,Cadmium,10,IMG20261030122650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122650.jpg,sea_water,Cadmium,10,IMG20261030122650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122651 copy.jpg,sea_water,Cadmium,10,IMG20261030122651 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 10 muM/IMG20261030122651.jpg,sea_water,Cadmium,10,IMG20261030122651.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122744 copy.jpg,sea_water,Cadmium,100,IMG20261030122744 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122744.jpg,sea_water,Cadmium,100,IMG20261030122744.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122745 copy.jpg,sea_water,Cadmium,100,IMG20261030122745 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122745.jpg,sea_water,Cadmium,100,IMG20261030122745.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122745_01 copy.jpg,sea_water,Cadmium,100,IMG20261030122745_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122745_01.jpg,sea_water,Cadmium,100,IMG20261030122745_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122746 copy.jpg,sea_water,Cadmium,100,IMG20261030122746 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122746.jpg,sea_water,Cadmium,100,IMG20261030122746.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122747 copy.jpg,sea_water,Cadmium,100,IMG20261030122747 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 100 muM/IMG20261030122747.jpg,sea_water,Cadmium,100,IMG20261030122747.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122830 copy.jpg,sea_water,Cadmium,150,IMG20261030122830 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122830.jpg,sea_water,Cadmium,150,IMG20261030122830.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122831 copy.jpg,sea_water,Cadmium,150,IMG20261030122831 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122831.jpg,sea_water,Cadmium,150,IMG20261030122831.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122832 copy.jpg,sea_water,Cadmium,150,IMG20261030122832 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122832.jpg,sea_water,Cadmium,150,IMG20261030122832.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122833 copy.jpg,sea_water,Cadmium,150,IMG20261030122833 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122833.jpg,sea_water,Cadmium,150,IMG20261030122833.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122834 copy.jpg,sea_water,Cadmium,150,IMG20261030122834 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 150 muN/IMG20261030122834.jpg,sea_water,Cadmium,150,IMG20261030122834.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123137 copy.jpg,sea_water,Cadmium,200,IMG20261030123137 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123137.jpg,sea_water,Cadmium,200,IMG20261030123137.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123138 copy.jpg,sea_water,Cadmium,200,IMG20261030123138 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123138.jpg,sea_water,Cadmium,200,IMG20261030123138.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123139 copy.jpg,sea_water,Cadmium,200,IMG20261030123139 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123139.jpg,sea_water,Cadmium,200,IMG20261030123139.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123139_01 copy.jpg,sea_water,Cadmium,200,IMG20261030123139_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123139_01.jpg,sea_water,Cadmium,200,IMG20261030123139_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123140 copy.jpg,sea_water,Cadmium,200,IMG20261030123140 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 200 muM/IMG20261030123140.jpg,sea_water,Cadmium,200,IMG20261030123140.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123237 copy.jpg,sea_water,Cadmium,250,IMG20261030123237 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123237.jpg,sea_water,Cadmium,250,IMG20261030123237.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123238 copy.jpg,sea_water,Cadmium,250,IMG20261030123238 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123238.jpg,sea_water,Cadmium,250,IMG20261030123238.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123239 copy.jpg,sea_water,Cadmium,250,IMG20261030123239 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123239.jpg,sea_water,Cadmium,250,IMG20261030123239.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123240 copy.jpg,sea_water,Cadmium,250,IMG20261030123240 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123240.jpg,sea_water,Cadmium,250,IMG20261030123240.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123241 copy.jpg,sea_water,Cadmium,250,IMG20261030123241 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 250 muM/IMG20261030123241.jpg,sea_water,Cadmium,250,IMG20261030123241.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123046 copy.jpg,sea_water,Cadmium,50,IMG20261030123046 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123046.jpg,sea_water,Cadmium,50,IMG20261030123046.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123047 copy.jpg,sea_water,Cadmium,50,IMG20261030123047 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123047.jpg,sea_water,Cadmium,50,IMG20261030123047.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123048 copy.jpg,sea_water,Cadmium,50,IMG20261030123048 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123048.jpg,sea_water,Cadmium,50,IMG20261030123048.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123049 copy.jpg,sea_water,Cadmium,50,IMG20261030123049 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123049.jpg,sea_water,Cadmium,50,IMG20261030123049.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123050 copy.jpg,sea_water,Cadmium,50,IMG20261030123050 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Cadmium/Cd-2 50 muM/IMG20261030123050.jpg,sea_water,Cadmium,50,IMG20261030123050.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124854 copy.jpg,sea_water,Chromium,10,IMG20261030124854 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124854.jpg,sea_water,Chromium,10,IMG20261030124854.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124855 copy.jpg,sea_water,Chromium,10,IMG20261030124855 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124855.jpg,sea_water,Chromium,10,IMG20261030124855.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124856 copy.jpg,sea_water,Chromium,10,IMG20261030124856 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124856.jpg,sea_water,Chromium,10,IMG20261030124856.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124857 copy.jpg,sea_water,Chromium,10,IMG20261030124857 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124857.jpg,sea_water,Chromium,10,IMG20261030124857.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124858 copy.jpg,sea_water,Chromium,10,IMG20261030124858 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 10 muM/IMG20261030124858.jpg,sea_water,Chromium,10,IMG20261030124858.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125026 copy.jpg,sea_water,Chromium,100,IMG20261030125026 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125026.jpg,sea_water,Chromium,100,IMG20261030125026.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125027 copy.jpg,sea_water,Chromium,100,IMG20261030125027 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125027.jpg,sea_water,Chromium,100,IMG20261030125027.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125028 copy.jpg,sea_water,Chromium,100,IMG20261030125028 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125028.jpg,sea_water,Chromium,100,IMG20261030125028.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125029 copy.jpg,sea_water,Chromium,100,IMG20261030125029 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125029.jpg,sea_water,Chromium,100,IMG20261030125029.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125030 copy.jpg,sea_water,Chromium,100,IMG20261030125030 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 100 muM/IMG20261030125030.jpg,sea_water,Chromium,100,IMG20261030125030.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130114 copy.jpg,sea_water,Chromium,150,IMG20261030130114 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130114.jpg,sea_water,Chromium,150,IMG20261030130114.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130115 copy.jpg,sea_water,Chromium,150,IMG20261030130115 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130115.jpg,sea_water,Chromium,150,IMG20261030130115.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130116 copy.jpg,sea_water,Chromium,150,IMG20261030130116 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130116.jpg,sea_water,Chromium,150,IMG20261030130116.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130117 copy.jpg,sea_water,Chromium,150,IMG20261030130117 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130117.jpg,sea_water,Chromium,150,IMG20261030130117.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130117_01 copy.jpg,sea_water,Chromium,150,IMG20261030130117_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 150 muM/IMG20261030130117_01.jpg,sea_water,Chromium,150,IMG20261030130117_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130200 copy.jpg,sea_water,Chromium,200,IMG20261030130200 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130200.jpg,sea_water,Chromium,200,IMG20261030130200.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130201 copy.jpg,sea_water,Chromium,200,IMG20261030130201 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130201.jpg,sea_water,Chromium,200,IMG20261030130201.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130201_01 copy.jpg,sea_water,Chromium,200,IMG20261030130201_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130201_01.jpg,sea_water,Chromium,200,IMG20261030130201_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130202 copy.jpg,sea_water,Chromium,200,IMG20261030130202 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130202.jpg,sea_water,Chromium,200,IMG20261030130202.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130203 copy.jpg,sea_water,Chromium,200,IMG20261030130203 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 200 muM/IMG20261030130203.jpg,sea_water,Chromium,200,IMG20261030130203.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130245 copy.jpg,sea_water,Chromium,250,IMG20261030130245 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130245.jpg,sea_water,Chromium,250,IMG20261030130245.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130246 copy.jpg,sea_water,Chromium,250,IMG20261030130246 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130246.jpg,sea_water,Chromium,250,IMG20261030130246.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130246_01 copy.jpg,sea_water,Chromium,250,IMG20261030130246_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130246_01.jpg,sea_water,Chromium,250,IMG20261030130246_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130248 copy.jpg,sea_water,Chromium,250,IMG20261030130248 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130248.jpg,sea_water,Chromium,250,IMG20261030130248.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130249 copy.jpg,sea_water,Chromium,250,IMG20261030130249 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 250 muM/IMG20261030130249.jpg,sea_water,Chromium,250,IMG20261030130249.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124936 copy.jpg,sea_water,Chromium,50,IMG20261030124936 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124936.jpg,sea_water,Chromium,50,IMG20261030124936.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124936_01 copy.jpg,sea_water,Chromium,50,IMG20261030124936_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124936_01.jpg,sea_water,Chromium,50,IMG20261030124936_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124937 copy.jpg,sea_water,Chromium,50,IMG20261030124937 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124937.jpg,sea_water,Chromium,50,IMG20261030124937.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124938 copy.jpg,sea_water,Chromium,50,IMG20261030124938 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124938.jpg,sea_water,Chromium,50,IMG20261030124938.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124939 copy.jpg,sea_water,Chromium,50,IMG20261030124939 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Chromium/Cr-2 50 muM/IMG20261030124939.jpg,sea_water,Chromium,50,IMG20261030124939.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132228 copy.jpg,sea_water,Copper,10,IMG20261030132228 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132228.jpg,sea_water,Copper,10,IMG20261030132228.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132229 copy.jpg,sea_water,Copper,10,IMG20261030132229 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132229.jpg,sea_water,Copper,10,IMG20261030132229.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132230 copy.jpg,sea_water,Copper,10,IMG20261030132230 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132230.jpg,sea_water,Copper,10,IMG20261030132230.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132231 copy.jpg,sea_water,Copper,10,IMG20261030132231 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132231.jpg,sea_water,Copper,10,IMG20261030132231.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132232 copy.jpg,sea_water,Copper,10,IMG20261030132232 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 10 muM/IMG20261030132232.jpg,sea_water,Copper,10,IMG20261030132232.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132412 copy.jpg,sea_water,Copper,100,IMG20261030132412 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132412.jpg,sea_water,Copper,100,IMG20261030132412.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132413 copy.jpg,sea_water,Copper,100,IMG20261030132413 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132413.jpg,sea_water,Copper,100,IMG20261030132413.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132414 copy.jpg,sea_water,Copper,100,IMG20261030132414 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132414.jpg,sea_water,Copper,100,IMG20261030132414.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132415 copy.jpg,sea_water,Copper,100,IMG20261030132415 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132415.jpg,sea_water,Copper,100,IMG20261030132415.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132415_01 copy.jpg,sea_water,Copper,100,IMG20261030132415_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 100 muM/IMG20261030132415_01.jpg,sea_water,Copper,100,IMG20261030132415_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132608 copy.jpg,sea_water,Copper,150,IMG20261030132608 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132608.jpg,sea_water,Copper,150,IMG20261030132608.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132609 copy.jpg,sea_water,Copper,150,IMG20261030132609 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132609.jpg,sea_water,Copper,150,IMG20261030132609.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132610 copy.jpg,sea_water,Copper,150,IMG20261030132610 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132610.jpg,sea_water,Copper,150,IMG20261030132610.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132610_01 copy.jpg,sea_water,Copper,150,IMG20261030132610_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132610_01.jpg,sea_water,Copper,150,IMG20261030132610_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132611 copy.jpg,sea_water,Copper,150,IMG20261030132611 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 150 muM/IMG20261030132611.jpg,sea_water,Copper,150,IMG20261030132611.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132648 copy.jpg,sea_water,Copper,200,IMG20261030132648 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132648.jpg,sea_water,Copper,200,IMG20261030132648.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132649 copy.jpg,sea_water,Copper,200,IMG20261030132649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132649.jpg,sea_water,Copper,200,IMG20261030132649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132650 copy.jpg,sea_water,Copper,200,IMG20261030132650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132650.jpg,sea_water,Copper,200,IMG20261030132650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132652 copy.jpg,sea_water,Copper,200,IMG20261030132652 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132652.jpg,sea_water,Copper,200,IMG20261030132652.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132653 copy.jpg,sea_water,Copper,200,IMG20261030132653 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 200 muM/IMG20261030132653.jpg,sea_water,Copper,200,IMG20261030132653.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132739 copy.jpg,sea_water,Copper,250,IMG20261030132739 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132739.jpg,sea_water,Copper,250,IMG20261030132739.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132740 copy.jpg,sea_water,Copper,250,IMG20261030132740 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132740.jpg,sea_water,Copper,250,IMG20261030132740.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132740_01 copy.jpg,sea_water,Copper,250,IMG20261030132740_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132740_01.jpg,sea_water,Copper,250,IMG20261030132740_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132741 copy.jpg,sea_water,Copper,250,IMG20261030132741 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132741.jpg,sea_water,Copper,250,IMG20261030132741.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132742 copy.jpg,sea_water,Copper,250,IMG20261030132742 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 250 muM/IMG20261030132742.jpg,sea_water,Copper,250,IMG20261030132742.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132325 copy.jpg,sea_water,Copper,50,IMG20261030132325 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132325.jpg,sea_water,Copper,50,IMG20261030132325.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132326 copy.jpg,sea_water,Copper,50,IMG20261030132326 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132326.jpg,sea_water,Copper,50,IMG20261030132326.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132326_01 copy.jpg,sea_water,Copper,50,IMG20261030132326_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132326_01.jpg,sea_water,Copper,50,IMG20261030132326_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132327 copy.jpg,sea_water,Copper,50,IMG20261030132327 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132327.jpg,sea_water,Copper,50,IMG20261030132327.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132328 copy.jpg,sea_water,Copper,50,IMG20261030132328 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Copper/Cu-2 50 muM/IMG20261030132328.jpg,sea_water,Copper,50,IMG20261030132328.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134453 copy.jpg,sea_water,Lead,10,IMG20261030134453 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134453.jpg,sea_water,Lead,10,IMG20261030134453.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134453_01 copy.jpg,sea_water,Lead,10,IMG20261030134453_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134453_01.jpg,sea_water,Lead,10,IMG20261030134453_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134454 copy.jpg,sea_water,Lead,10,IMG20261030134454 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134454.jpg,sea_water,Lead,10,IMG20261030134454.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134455 copy.jpg,sea_water,Lead,10,IMG20261030134455 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134455.jpg,sea_water,Lead,10,IMG20261030134455.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134456 copy.jpg,sea_water,Lead,10,IMG20261030134456 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 10 muM/IMG20261030134456.jpg,sea_water,Lead,10,IMG20261030134456.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134617 copy.jpg,sea_water,Lead,100,IMG20261030134617 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134617.jpg,sea_water,Lead,100,IMG20261030134617.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134617_01 copy.jpg,sea_water,Lead,100,IMG20261030134617_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134617_01.jpg,sea_water,Lead,100,IMG20261030134617_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134618 copy.jpg,sea_water,Lead,100,IMG20261030134618 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134618.jpg,sea_water,Lead,100,IMG20261030134618.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134619 copy.jpg,sea_water,Lead,100,IMG20261030134619 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134619.jpg,sea_water,Lead,100,IMG20261030134619.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134620 copy.jpg,sea_water,Lead,100,IMG20261030134620 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 100 muM/IMG20261030134620.jpg,sea_water,Lead,100,IMG20261030134620.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134802 copy.jpg,sea_water,Lead,150,IMG20261030134802 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134802.jpg,sea_water,Lead,150,IMG20261030134802.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134803 copy.jpg,sea_water,Lead,150,IMG20261030134803 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134803.jpg,sea_water,Lead,150,IMG20261030134803.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134804 copy.jpg,sea_water,Lead,150,IMG20261030134804 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134804.jpg,sea_water,Lead,150,IMG20261030134804.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134804_01 copy.jpg,sea_water,Lead,150,IMG20261030134804_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134804_01.jpg,sea_water,Lead,150,IMG20261030134804_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134805 copy.jpg,sea_water,Lead,150,IMG20261030134805 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 150 muM/IMG20261030134805.jpg,sea_water,Lead,150,IMG20261030134805.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134853 copy.jpg,sea_water,Lead,200,IMG20261030134853 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134853.jpg,sea_water,Lead,200,IMG20261030134853.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134856 copy.jpg,sea_water,Lead,200,IMG20261030134856 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134856.jpg,sea_water,Lead,200,IMG20261030134856.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134857 copy.jpg,sea_water,Lead,200,IMG20261030134857 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134857.jpg,sea_water,Lead,200,IMG20261030134857.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134857_01 copy.jpg,sea_water,Lead,200,IMG20261030134857_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134857_01.jpg,sea_water,Lead,200,IMG20261030134857_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134858 copy.jpg,sea_water,Lead,200,IMG20261030134858 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 200 muM/IMG20261030134858.jpg,sea_water,Lead,200,IMG20261030134858.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134951 copy.jpg,sea_water,Lead,250,IMG20261030134951 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134951.jpg,sea_water,Lead,250,IMG20261030134951.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134952 copy.jpg,sea_water,Lead,250,IMG20261030134952 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134952.jpg,sea_water,Lead,250,IMG20261030134952.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134953 copy.jpg,sea_water,Lead,250,IMG20261030134953 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134953.jpg,sea_water,Lead,250,IMG20261030134953.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134953_01 copy.jpg,sea_water,Lead,250,IMG20261030134953_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134953_01.jpg,sea_water,Lead,250,IMG20261030134953_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134955 copy.jpg,sea_water,Lead,250,IMG20261030134955 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 250 muM/IMG20261030134955.jpg,sea_water,Lead,250,IMG20261030134955.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134541 copy.jpg,sea_water,Lead,50,IMG20261030134541 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134541.jpg,sea_water,Lead,50,IMG20261030134541.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134542 copy.jpg,sea_water,Lead,50,IMG20261030134542 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134542.jpg,sea_water,Lead,50,IMG20261030134542.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134543 copy.jpg,sea_water,Lead,50,IMG20261030134543 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134543.jpg,sea_water,Lead,50,IMG20261030134543.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134544 copy.jpg,sea_water,Lead,50,IMG20261030134544 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134544.jpg,sea_water,Lead,50,IMG20261030134544.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134544_01 copy.jpg,sea_water,Lead,50,IMG20261030134544_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Lead/Pb-2 50 muM/IMG20261030134544_01.jpg,sea_water,Lead,50,IMG20261030134544_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135228 copy.jpg,sea_water,Mercury,10,IMG20261030135228 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135228.jpg,sea_water,Mercury,10,IMG20261030135228.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135229 copy.jpg,sea_water,Mercury,10,IMG20261030135229 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135229.jpg,sea_water,Mercury,10,IMG20261030135229.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135230 copy.jpg,sea_water,Mercury,10,IMG20261030135230 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135230.jpg,sea_water,Mercury,10,IMG20261030135230.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135231 copy.jpg,sea_water,Mercury,10,IMG20261030135231 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135231.jpg,sea_water,Mercury,10,IMG20261030135231.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135232 copy.jpg,sea_water,Mercury,10,IMG20261030135232 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 10 muM/IMG20261030135232.jpg,sea_water,Mercury,10,IMG20261030135232.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135400 copy.jpg,sea_water,Mercury,100,IMG20261030135400 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135400.jpg,sea_water,Mercury,100,IMG20261030135400.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135401 copy.jpg,sea_water,Mercury,100,IMG20261030135401 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135401.jpg,sea_water,Mercury,100,IMG20261030135401.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135402 copy.jpg,sea_water,Mercury,100,IMG20261030135402 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135402.jpg,sea_water,Mercury,100,IMG20261030135402.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135404 copy.jpg,sea_water,Mercury,100,IMG20261030135404 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135404.jpg,sea_water,Mercury,100,IMG20261030135404.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135405 copy.jpg,sea_water,Mercury,100,IMG20261030135405 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 100 muM/IMG20261030135405.jpg,sea_water,Mercury,100,IMG20261030135405.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135556 copy.jpg,sea_water,Mercury,150,IMG20261030135556 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135556.jpg,sea_water,Mercury,150,IMG20261030135556.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135557 copy.jpg,sea_water,Mercury,150,IMG20261030135557 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135557.jpg,sea_water,Mercury,150,IMG20261030135557.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135557_01 copy.jpg,sea_water,Mercury,150,IMG20261030135557_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135557_01.jpg,sea_water,Mercury,150,IMG20261030135557_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135558 copy.jpg,sea_water,Mercury,150,IMG20261030135558 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135558.jpg,sea_water,Mercury,150,IMG20261030135558.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135559 copy.jpg,sea_water,Mercury,150,IMG20261030135559 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 150 muM/IMG20261030135559.jpg,sea_water,Mercury,150,IMG20261030135559.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135636 copy.jpg,sea_water,Mercury,200,IMG20261030135636 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135636.jpg,sea_water,Mercury,200,IMG20261030135636.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135637 copy.jpg,sea_water,Mercury,200,IMG20261030135637 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135637.jpg,sea_water,Mercury,200,IMG20261030135637.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135637_01 copy.jpg,sea_water,Mercury,200,IMG20261030135637_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135637_01.jpg,sea_water,Mercury,200,IMG20261030135637_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135638 copy.jpg,sea_water,Mercury,200,IMG20261030135638 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135638.jpg,sea_water,Mercury,200,IMG20261030135638.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135639 copy.jpg,sea_water,Mercury,200,IMG20261030135639 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 200 muM/IMG20261030135639.jpg,sea_water,Mercury,200,IMG20261030135639.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135720 copy.jpg,sea_water,Mercury,250,IMG20261030135720 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135720.jpg,sea_water,Mercury,250,IMG20261030135720.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135721 copy.jpg,sea_water,Mercury,250,IMG20261030135721 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135721.jpg,sea_water,Mercury,250,IMG20261030135721.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135722 copy.jpg,sea_water,Mercury,250,IMG20261030135722 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135722.jpg,sea_water,Mercury,250,IMG20261030135722.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135722_01 copy.jpg,sea_water,Mercury,250,IMG20261030135722_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135722_01.jpg,sea_water,Mercury,250,IMG20261030135722_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135723 copy.jpg,sea_water,Mercury,250,IMG20261030135723 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 250 muM/IMG20261030135723.jpg,sea_water,Mercury,250,IMG20261030135723.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135322 copy.jpg,sea_water,Mercury,50,IMG20261030135322 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135322.jpg,sea_water,Mercury,50,IMG20261030135322.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135323 copy.jpg,sea_water,Mercury,50,IMG20261030135323 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135323.jpg,sea_water,Mercury,50,IMG20261030135323.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135324 copy.jpg,sea_water,Mercury,50,IMG20261030135324 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135324.jpg,sea_water,Mercury,50,IMG20261030135324.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135325 copy.jpg,sea_water,Mercury,50,IMG20261030135325 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135325.jpg,sea_water,Mercury,50,IMG20261030135325.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135325_01 copy.jpg,sea_water,Mercury,50,IMG20261030135325_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Mercury/Hg-2 50 muM/IMG20261030135325_01.jpg,sea_water,Mercury,50,IMG20261030135325_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125341 copy.jpg,sea_water,Palladium,10,IMG20261030125341 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125341.jpg,sea_water,Palladium,10,IMG20261030125341.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125342 copy.jpg,sea_water,Palladium,10,IMG20261030125342 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125342.jpg,sea_water,Palladium,10,IMG20261030125342.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125343 copy.jpg,sea_water,Palladium,10,IMG20261030125343 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125343.jpg,sea_water,Palladium,10,IMG20261030125343.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125344 copy.jpg,sea_water,Palladium,10,IMG20261030125344 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125344.jpg,sea_water,Palladium,10,IMG20261030125344.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125344_01 copy.jpg,sea_water,Palladium,10,IMG20261030125344_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 10 muM/IMG20261030125344_01.jpg,sea_water,Palladium,10,IMG20261030125344_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125552 copy.jpg,sea_water,Palladium,100,IMG20261030125552 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125552.jpg,sea_water,Palladium,100,IMG20261030125552.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125553 copy.jpg,sea_water,Palladium,100,IMG20261030125553 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125553.jpg,sea_water,Palladium,100,IMG20261030125553.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125554 copy.jpg,sea_water,Palladium,100,IMG20261030125554 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125554.jpg,sea_water,Palladium,100,IMG20261030125554.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125555 copy.jpg,sea_water,Palladium,100,IMG20261030125555 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125555.jpg,sea_water,Palladium,100,IMG20261030125555.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125555_01 copy.jpg,sea_water,Palladium,100,IMG20261030125555_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 100 muM/IMG20261030125555_01.jpg,sea_water,Palladium,100,IMG20261030125555_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130609 copy.jpg,sea_water,Palladium,150,IMG20261030130609 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130609.jpg,sea_water,Palladium,150,IMG20261030130609.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130610 copy.jpg,sea_water,Palladium,150,IMG20261030130610 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130610.jpg,sea_water,Palladium,150,IMG20261030130610.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130611 copy.jpg,sea_water,Palladium,150,IMG20261030130611 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130611.jpg,sea_water,Palladium,150,IMG20261030130611.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130612 copy.jpg,sea_water,Palladium,150,IMG20261030130612 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130612.jpg,sea_water,Palladium,150,IMG20261030130612.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130613 copy.jpg,sea_water,Palladium,150,IMG20261030130613 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 150 muM/IMG20261030130613.jpg,sea_water,Palladium,150,IMG20261030130613.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130648 copy.jpg,sea_water,Palladium,200,IMG20261030130648 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130648.jpg,sea_water,Palladium,200,IMG20261030130648.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130649 copy.jpg,sea_water,Palladium,200,IMG20261030130649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130649.jpg,sea_water,Palladium,200,IMG20261030130649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130650 copy.jpg,sea_water,Palladium,200,IMG20261030130650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130650.jpg,sea_water,Palladium,200,IMG20261030130650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130651 copy.jpg,sea_water,Palladium,200,IMG20261030130651 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130651.jpg,sea_water,Palladium,200,IMG20261030130651.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130652 copy.jpg,sea_water,Palladium,200,IMG20261030130652 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 200 muM/IMG20261030130652.jpg,sea_water,Palladium,200,IMG20261030130652.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130753 copy.jpg,sea_water,Palladium,250,IMG20261030130753 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130753.jpg,sea_water,Palladium,250,IMG20261030130753.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130754 copy.jpg,sea_water,Palladium,250,IMG20261030130754 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130754.jpg,sea_water,Palladium,250,IMG20261030130754.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130754_01 copy.jpg,sea_water,Palladium,250,IMG20261030130754_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130754_01.jpg,sea_water,Palladium,250,IMG20261030130754_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130755 copy.jpg,sea_water,Palladium,250,IMG20261030130755 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130755.jpg,sea_water,Palladium,250,IMG20261030130755.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130756 copy.jpg,sea_water,Palladium,250,IMG20261030130756 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 250 muM/IMG20261030130756.jpg,sea_water,Palladium,250,IMG20261030130756.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125424 copy.jpg,sea_water,Palladium,50,IMG20261030125424 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125424.jpg,sea_water,Palladium,50,IMG20261030125424.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125425 copy.jpg,sea_water,Palladium,50,IMG20261030125425 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125425.jpg,sea_water,Palladium,50,IMG20261030125425.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125426 copy.jpg,sea_water,Palladium,50,IMG20261030125426 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125426.jpg,sea_water,Palladium,50,IMG20261030125426.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125427 copy.jpg,sea_water,Palladium,50,IMG20261030125427 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125427.jpg,sea_water,Palladium,50,IMG20261030125427.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125427_01 copy.jpg,sea_water,Palladium,50,IMG20261030125427_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Palladium/Pd-2 50 muM/IMG20261030125427_01.jpg,sea_water,Palladium,50,IMG20261030125427_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120909 copy.jpg,sea_water,Silver,10,IMG20261030120909 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120909.jpg,sea_water,Silver,10,IMG20261030120909.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120910 copy.jpg,sea_water,Silver,10,IMG20261030120910 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120910.jpg,sea_water,Silver,10,IMG20261030120910.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120911 copy.jpg,sea_water,Silver,10,IMG20261030120911 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120911.jpg,sea_water,Silver,10,IMG20261030120911.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120912 copy.jpg,sea_water,Silver,10,IMG20261030120912 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120912.jpg,sea_water,Silver,10,IMG20261030120912.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120913 copy.jpg,sea_water,Silver,10,IMG20261030120913 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 10 muM/IMG20261030120913.jpg,sea_water,Silver,10,IMG20261030120913.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121253 copy.jpg,sea_water,Silver,100,IMG20261030121253 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121253.jpg,sea_water,Silver,100,IMG20261030121253.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121254 copy.jpg,sea_water,Silver,100,IMG20261030121254 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121254.jpg,sea_water,Silver,100,IMG20261030121254.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121255 copy.jpg,sea_water,Silver,100,IMG20261030121255 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121255.jpg,sea_water,Silver,100,IMG20261030121255.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121256 copy.jpg,sea_water,Silver,100,IMG20261030121256 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121256.jpg,sea_water,Silver,100,IMG20261030121256.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121258 copy.jpg,sea_water,Silver,100,IMG20261030121258 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 100 muM/IMG20261030121258.jpg,sea_water,Silver,100,IMG20261030121258.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121528 copy.jpg,sea_water,Silver,150,IMG20261030121528 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121528.jpg,sea_water,Silver,150,IMG20261030121528.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121528_01 copy.jpg,sea_water,Silver,150,IMG20261030121528_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121528_01.jpg,sea_water,Silver,150,IMG20261030121528_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121529 copy.jpg,sea_water,Silver,150,IMG20261030121529 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121529.jpg,sea_water,Silver,150,IMG20261030121529.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121530 copy.jpg,sea_water,Silver,150,IMG20261030121530 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121530.jpg,sea_water,Silver,150,IMG20261030121530.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121531 copy.jpg,sea_water,Silver,150,IMG20261030121531 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 150 muM/IMG20261030121531.jpg,sea_water,Silver,150,IMG20261030121531.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121808 copy.jpg,sea_water,Silver,200,IMG20261030121808 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121808.jpg,sea_water,Silver,200,IMG20261030121808.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121808_01 copy.jpg,sea_water,Silver,200,IMG20261030121808_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121808_01.jpg,sea_water,Silver,200,IMG20261030121808_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121809 copy.jpg,sea_water,Silver,200,IMG20261030121809 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121809.jpg,sea_water,Silver,200,IMG20261030121809.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121810 copy.jpg,sea_water,Silver,200,IMG20261030121810 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121810.jpg,sea_water,Silver,200,IMG20261030121810.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121811 copy.jpg,sea_water,Silver,200,IMG20261030121811 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 200 muM/IMG20261030121811.jpg,sea_water,Silver,200,IMG20261030121811.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121905 copy.jpg,sea_water,Silver,250,IMG20261030121905 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121905.jpg,sea_water,Silver,250,IMG20261030121905.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121906 copy.jpg,sea_water,Silver,250,IMG20261030121906 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121906.jpg,sea_water,Silver,250,IMG20261030121906.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121906_01 copy.jpg,sea_water,Silver,250,IMG20261030121906_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121906_01.jpg,sea_water,Silver,250,IMG20261030121906_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121907 copy.jpg,sea_water,Silver,250,IMG20261030121907 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121907.jpg,sea_water,Silver,250,IMG20261030121907.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121908 copy.jpg,sea_water,Silver,250,IMG20261030121908 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 250 muM/IMG20261030121908.jpg,sea_water,Silver,250,IMG20261030121908.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121112 copy.jpg,sea_water,Silver,50,IMG20261030121112 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121112.jpg,sea_water,Silver,50,IMG20261030121112.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121113 copy.jpg,sea_water,Silver,50,IMG20261030121113 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121113.jpg,sea_water,Silver,50,IMG20261030121113.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121114 copy.jpg,sea_water,Silver,50,IMG20261030121114 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121114.jpg,sea_water,Silver,50,IMG20261030121114.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121115 copy.jpg,sea_water,Silver,50,IMG20261030121115 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121115.jpg,sea_water,Silver,50,IMG20261030121115.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121115_01 copy.jpg,sea_water,Silver,50,IMG20261030121115_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Silver/Ag-2 50 muM/IMG20261030121115_01.jpg,sea_water,Silver,50,IMG20261030121115_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140310 copy.jpg,sea_water,Zinc,10,IMG20261030140310 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140310.jpg,sea_water,Zinc,10,IMG20261030140310.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140311 copy.jpg,sea_water,Zinc,10,IMG20261030140311 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140311.jpg,sea_water,Zinc,10,IMG20261030140311.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140312 copy.jpg,sea_water,Zinc,10,IMG20261030140312 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140312.jpg,sea_water,Zinc,10,IMG20261030140312.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140313 copy.jpg,sea_water,Zinc,10,IMG20261030140313 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140313.jpg,sea_water,Zinc,10,IMG20261030140313.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140314 copy.jpg,sea_water,Zinc,10,IMG20261030140314 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 10 muM/IMG20261030140314.jpg,sea_water,Zinc,10,IMG20261030140314.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140456 copy.jpg,sea_water,Zinc,100,IMG20261030140456 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140456.jpg,sea_water,Zinc,100,IMG20261030140456.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140457 copy.jpg,sea_water,Zinc,100,IMG20261030140457 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140457.jpg,sea_water,Zinc,100,IMG20261030140457.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140459 copy.jpg,sea_water,Zinc,100,IMG20261030140459 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140459.jpg,sea_water,Zinc,100,IMG20261030140459.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140500 copy.jpg,sea_water,Zinc,100,IMG20261030140500 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140500.jpg,sea_water,Zinc,100,IMG20261030140500.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140501 copy.jpg,sea_water,Zinc,100,IMG20261030140501 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 100 muM/IMG20261030140501.jpg,sea_water,Zinc,100,IMG20261030140501.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140658 copy.jpg,sea_water,Zinc,150,IMG20261030140658 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140658.jpg,sea_water,Zinc,150,IMG20261030140658.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140659 copy.jpg,sea_water,Zinc,150,IMG20261030140659 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140659.jpg,sea_water,Zinc,150,IMG20261030140659.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140700 copy.jpg,sea_water,Zinc,150,IMG20261030140700 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140700.jpg,sea_water,Zinc,150,IMG20261030140700.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140701 copy.jpg,sea_water,Zinc,150,IMG20261030140701 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140701.jpg,sea_water,Zinc,150,IMG20261030140701.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140702 copy.jpg,sea_water,Zinc,150,IMG20261030140702 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 150 muM/IMG20261030140702.jpg,sea_water,Zinc,150,IMG20261030140702.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140742 copy.jpg,sea_water,Zinc,200,IMG20261030140742 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140742.jpg,sea_water,Zinc,200,IMG20261030140742.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140743 copy.jpg,sea_water,Zinc,200,IMG20261030140743 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140743.jpg,sea_water,Zinc,200,IMG20261030140743.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140744 copy.jpg,sea_water,Zinc,200,IMG20261030140744 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140744.jpg,sea_water,Zinc,200,IMG20261030140744.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140744_01 copy.jpg,sea_water,Zinc,200,IMG20261030140744_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140744_01.jpg,sea_water,Zinc,200,IMG20261030140744_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140746 copy.jpg,sea_water,Zinc,200,IMG20261030140746 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 200 muM/IMG20261030140746.jpg,sea_water,Zinc,200,IMG20261030140746.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140824 copy.jpg,sea_water,Zinc,250,IMG20261030140824 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140824.jpg,sea_water,Zinc,250,IMG20261030140824.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140826 copy.jpg,sea_water,Zinc,250,IMG20261030140826 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140826.jpg,sea_water,Zinc,250,IMG20261030140826.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140826_01 copy.jpg,sea_water,Zinc,250,IMG20261030140826_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140826_01.jpg,sea_water,Zinc,250,IMG20261030140826_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140827 copy.jpg,sea_water,Zinc,250,IMG20261030140827 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140827.jpg,sea_water,Zinc,250,IMG20261030140827.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140828 copy.jpg,sea_water,Zinc,250,IMG20261030140828 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 250 muM/IMG20261030140828.jpg,sea_water,Zinc,250,IMG20261030140828.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140358 copy.jpg,sea_water,Zinc,50,IMG20261030140358 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140358.jpg,sea_water,Zinc,50,IMG20261030140358.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140359 copy.jpg,sea_water,Zinc,50,IMG20261030140359 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140359.jpg,sea_water,Zinc,50,IMG20261030140359.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140400 copy.jpg,sea_water,Zinc,50,IMG20261030140400 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140400.jpg,sea_water,Zinc,50,IMG20261030140400.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140400_01 copy.jpg,sea_water,Zinc,50,IMG20261030140400_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140400_01.jpg,sea_water,Zinc,50,IMG20261030140400_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140401 copy.jpg,sea_water,Zinc,50,IMG20261030140401 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Sea_Water/Zinc/Zn-2 50 muM/IMG20261030140401.jpg,sea_water,Zinc,50,IMG20261030140401.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122647 copy.jpg,tap_water,Cadmium,10,IMG20261030122647 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122647.jpg,tap_water,Cadmium,10,IMG20261030122647.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122647_01 copy.jpg,tap_water,Cadmium,10,IMG20261030122647_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122647_01.jpg,tap_water,Cadmium,10,IMG20261030122647_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122649 copy.jpg,tap_water,Cadmium,10,IMG20261030122649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122649.jpg,tap_water,Cadmium,10,IMG20261030122649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122650 copy.jpg,tap_water,Cadmium,10,IMG20261030122650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122650.jpg,tap_water,Cadmium,10,IMG20261030122650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122651 copy.jpg,tap_water,Cadmium,10,IMG20261030122651 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 10 muM/IMG20261030122651.jpg,tap_water,Cadmium,10,IMG20261030122651.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122744 copy.jpg,tap_water,Cadmium,100,IMG20261030122744 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122744.jpg,tap_water,Cadmium,100,IMG20261030122744.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122745 copy.jpg,tap_water,Cadmium,100,IMG20261030122745 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122745.jpg,tap_water,Cadmium,100,IMG20261030122745.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122745_01 copy.jpg,tap_water,Cadmium,100,IMG20261030122745_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122745_01.jpg,tap_water,Cadmium,100,IMG20261030122745_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122746 copy.jpg,tap_water,Cadmium,100,IMG20261030122746 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122746.jpg,tap_water,Cadmium,100,IMG20261030122746.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122747 copy.jpg,tap_water,Cadmium,100,IMG20261030122747 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 100 muM/IMG20261030122747.jpg,tap_water,Cadmium,100,IMG20261030122747.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122830 copy.jpg,tap_water,Cadmium,150,IMG20261030122830 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122830.jpg,tap_water,Cadmium,150,IMG20261030122830.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122831 copy.jpg,tap_water,Cadmium,150,IMG20261030122831 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122831.jpg,tap_water,Cadmium,150,IMG20261030122831.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122832 copy.jpg,tap_water,Cadmium,150,IMG20261030122832 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122832.jpg,tap_water,Cadmium,150,IMG20261030122832.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122833 copy.jpg,tap_water,Cadmium,150,IMG20261030122833 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122833.jpg,tap_water,Cadmium,150,IMG20261030122833.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122834 copy.jpg,tap_water,Cadmium,150,IMG20261030122834 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 150 muN/IMG20261030122834.jpg,tap_water,Cadmium,150,IMG20261030122834.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123137 copy.jpg,tap_water,Cadmium,200,IMG20261030123137 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123137.jpg,tap_water,Cadmium,200,IMG20261030123137.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123138 copy.jpg,tap_water,Cadmium,200,IMG20261030123138 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123138.jpg,tap_water,Cadmium,200,IMG20261030123138.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123139 copy.jpg,tap_water,Cadmium,200,IMG20261030123139 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123139.jpg,tap_water,Cadmium,200,IMG20261030123139.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123139_01 copy.jpg,tap_water,Cadmium,200,IMG20261030123139_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123139_01.jpg,tap_water,Cadmium,200,IMG20261030123139_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123140 copy.jpg,tap_water,Cadmium,200,IMG20261030123140 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 200 muM/IMG20261030123140.jpg,tap_water,Cadmium,200,IMG20261030123140.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123237 copy.jpg,tap_water,Cadmium,250,IMG20261030123237 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123237.jpg,tap_water,Cadmium,250,IMG20261030123237.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123238 copy.jpg,tap_water,Cadmium,250,IMG20261030123238 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123238.jpg,tap_water,Cadmium,250,IMG20261030123238.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123239 copy.jpg,tap_water,Cadmium,250,IMG20261030123239 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123239.jpg,tap_water,Cadmium,250,IMG20261030123239.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123240 copy.jpg,tap_water,Cadmium,250,IMG20261030123240 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123240.jpg,tap_water,Cadmium,250,IMG20261030123240.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123241 copy.jpg,tap_water,Cadmium,250,IMG20261030123241 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 250 muM/IMG20261030123241.jpg,tap_water,Cadmium,250,IMG20261030123241.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123046 copy.jpg,tap_water,Cadmium,50,IMG20261030123046 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123046.jpg,tap_water,Cadmium,50,IMG20261030123046.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123047 copy.jpg,tap_water,Cadmium,50,IMG20261030123047 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123047.jpg,tap_water,Cadmium,50,IMG20261030123047.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123048 copy.jpg,tap_water,Cadmium,50,IMG20261030123048 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123048.jpg,tap_water,Cadmium,50,IMG20261030123048.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123049 copy.jpg,tap_water,Cadmium,50,IMG20261030123049 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123049.jpg,tap_water,Cadmium,50,IMG20261030123049.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123050 copy.jpg,tap_water,Cadmium,50,IMG20261030123050 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Cadmium/Cd 50 muM/IMG20261030123050.jpg,tap_water,Cadmium,50,IMG20261030123050.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124854 copy.jpg,tap_water,Chromium,10,IMG20261030124854 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124854.jpg,tap_water,Chromium,10,IMG20261030124854.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124855 copy.jpg,tap_water,Chromium,10,IMG20261030124855 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124855.jpg,tap_water,Chromium,10,IMG20261030124855.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124856 copy.jpg,tap_water,Chromium,10,IMG20261030124856 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124856.jpg,tap_water,Chromium,10,IMG20261030124856.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124857 copy.jpg,tap_water,Chromium,10,IMG20261030124857 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124857.jpg,tap_water,Chromium,10,IMG20261030124857.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124858 copy.jpg,tap_water,Chromium,10,IMG20261030124858 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 10 muM/IMG20261030124858.jpg,tap_water,Chromium,10,IMG20261030124858.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125026 copy.jpg,tap_water,Chromium,100,IMG20261030125026 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125026.jpg,tap_water,Chromium,100,IMG20261030125026.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125027 copy.jpg,tap_water,Chromium,100,IMG20261030125027 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125027.jpg,tap_water,Chromium,100,IMG20261030125027.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125028 copy.jpg,tap_water,Chromium,100,IMG20261030125028 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125028.jpg,tap_water,Chromium,100,IMG20261030125028.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125029 copy.jpg,tap_water,Chromium,100,IMG20261030125029 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125029.jpg,tap_water,Chromium,100,IMG20261030125029.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125030 copy.jpg,tap_water,Chromium,100,IMG20261030125030 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 100 muM/IMG20261030125030.jpg,tap_water,Chromium,100,IMG20261030125030.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130114 copy.jpg,tap_water,Chromium,150,IMG20261030130114 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130114.jpg,tap_water,Chromium,150,IMG20261030130114.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130115 copy.jpg,tap_water,Chromium,150,IMG20261030130115 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130115.jpg,tap_water,Chromium,150,IMG20261030130115.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130116 copy.jpg,tap_water,Chromium,150,IMG20261030130116 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130116.jpg,tap_water,Chromium,150,IMG20261030130116.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130117 copy.jpg,tap_water,Chromium,150,IMG20261030130117 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130117.jpg,tap_water,Chromium,150,IMG20261030130117.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130117_01 copy.jpg,tap_water,Chromium,150,IMG20261030130117_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 150 muM/IMG20261030130117_01.jpg,tap_water,Chromium,150,IMG20261030130117_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130200 copy.jpg,tap_water,Chromium,200,IMG20261030130200 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130200.jpg,tap_water,Chromium,200,IMG20261030130200.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130201 copy.jpg,tap_water,Chromium,200,IMG20261030130201 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130201.jpg,tap_water,Chromium,200,IMG20261030130201.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130201_01 copy.jpg,tap_water,Chromium,200,IMG20261030130201_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130201_01.jpg,tap_water,Chromium,200,IMG20261030130201_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130202 copy.jpg,tap_water,Chromium,200,IMG20261030130202 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130202.jpg,tap_water,Chromium,200,IMG20261030130202.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130203 copy.jpg,tap_water,Chromium,200,IMG20261030130203 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 200 muM/IMG20261030130203.jpg,tap_water,Chromium,200,IMG20261030130203.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130245 copy.jpg,tap_water,Chromium,250,IMG20261030130245 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130245.jpg,tap_water,Chromium,250,IMG20261030130245.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130246 copy.jpg,tap_water,Chromium,250,IMG20261030130246 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130246.jpg,tap_water,Chromium,250,IMG20261030130246.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130246_01 copy.jpg,tap_water,Chromium,250,IMG20261030130246_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130246_01.jpg,tap_water,Chromium,250,IMG20261030130246_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130248 copy.jpg,tap_water,Chromium,250,IMG20261030130248 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130248.jpg,tap_water,Chromium,250,IMG20261030130248.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130249 copy.jpg,tap_water,Chromium,250,IMG20261030130249 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 250 muM/IMG20261030130249.jpg,tap_water,Chromium,250,IMG20261030130249.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124936 copy.jpg,tap_water,Chromium,50,IMG20261030124936 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124936.jpg,tap_water,Chromium,50,IMG20261030124936.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124936_01 copy.jpg,tap_water,Chromium,50,IMG20261030124936_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124936_01.jpg,tap_water,Chromium,50,IMG20261030124936_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124937 copy.jpg,tap_water,Chromium,50,IMG20261030124937 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124937.jpg,tap_water,Chromium,50,IMG20261030124937.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124938 copy.jpg,tap_water,Chromium,50,IMG20261030124938 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124938.jpg,tap_water,Chromium,50,IMG20261030124938.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124939 copy.jpg,tap_water,Chromium,50,IMG20261030124939 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Chromium/Cr 50 muM/IMG20261030124939.jpg,tap_water,Chromium,50,IMG20261030124939.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132228 copy.jpg,tap_water,Copper,10,IMG20261030132228 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132228.jpg,tap_water,Copper,10,IMG20261030132228.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132229 copy.jpg,tap_water,Copper,10,IMG20261030132229 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132229.jpg,tap_water,Copper,10,IMG20261030132229.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132230 copy.jpg,tap_water,Copper,10,IMG20261030132230 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132230.jpg,tap_water,Copper,10,IMG20261030132230.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132231 copy.jpg,tap_water,Copper,10,IMG20261030132231 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132231.jpg,tap_water,Copper,10,IMG20261030132231.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132232 copy.jpg,tap_water,Copper,10,IMG20261030132232 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 10 muM/IMG20261030132232.jpg,tap_water,Copper,10,IMG20261030132232.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132412 copy.jpg,tap_water,Copper,100,IMG20261030132412 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132412.jpg,tap_water,Copper,100,IMG20261030132412.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132413 copy.jpg,tap_water,Copper,100,IMG20261030132413 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132413.jpg,tap_water,Copper,100,IMG20261030132413.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132414 copy.jpg,tap_water,Copper,100,IMG20261030132414 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132414.jpg,tap_water,Copper,100,IMG20261030132414.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132415 copy.jpg,tap_water,Copper,100,IMG20261030132415 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132415.jpg,tap_water,Copper,100,IMG20261030132415.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132415_01 copy.jpg,tap_water,Copper,100,IMG20261030132415_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 100 muM/IMG20261030132415_01.jpg,tap_water,Copper,100,IMG20261030132415_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132608 copy.jpg,tap_water,Copper,150,IMG20261030132608 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132608.jpg,tap_water,Copper,150,IMG20261030132608.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132609 copy.jpg,tap_water,Copper,150,IMG20261030132609 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132609.jpg,tap_water,Copper,150,IMG20261030132609.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132610 copy.jpg,tap_water,Copper,150,IMG20261030132610 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132610.jpg,tap_water,Copper,150,IMG20261030132610.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132610_01 copy.jpg,tap_water,Copper,150,IMG20261030132610_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132610_01.jpg,tap_water,Copper,150,IMG20261030132610_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132611 copy.jpg,tap_water,Copper,150,IMG20261030132611 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 150 muM/IMG20261030132611.jpg,tap_water,Copper,150,IMG20261030132611.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132648 copy.jpg,tap_water,Copper,200,IMG20261030132648 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132648.jpg,tap_water,Copper,200,IMG20261030132648.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132649 copy.jpg,tap_water,Copper,200,IMG20261030132649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132649.jpg,tap_water,Copper,200,IMG20261030132649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132650 copy.jpg,tap_water,Copper,200,IMG20261030132650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132650.jpg,tap_water,Copper,200,IMG20261030132650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132652 copy.jpg,tap_water,Copper,200,IMG20261030132652 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132652.jpg,tap_water,Copper,200,IMG20261030132652.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132653 copy.jpg,tap_water,Copper,200,IMG20261030132653 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 200 muM/IMG20261030132653.jpg,tap_water,Copper,200,IMG20261030132653.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132739 copy.jpg,tap_water,Copper,250,IMG20261030132739 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132739.jpg,tap_water,Copper,250,IMG20261030132739.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132740 copy.jpg,tap_water,Copper,250,IMG20261030132740 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132740.jpg,tap_water,Copper,250,IMG20261030132740.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132740_01 copy.jpg,tap_water,Copper,250,IMG20261030132740_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132740_01.jpg,tap_water,Copper,250,IMG20261030132740_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132741 copy.jpg,tap_water,Copper,250,IMG20261030132741 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132741.jpg,tap_water,Copper,250,IMG20261030132741.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132742 copy.jpg,tap_water,Copper,250,IMG20261030132742 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 250 muM/IMG20261030132742.jpg,tap_water,Copper,250,IMG20261030132742.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132325 copy.jpg,tap_water,Copper,50,IMG20261030132325 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132325.jpg,tap_water,Copper,50,IMG20261030132325.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132326 copy.jpg,tap_water,Copper,50,IMG20261030132326 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132326.jpg,tap_water,Copper,50,IMG20261030132326.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132326_01 copy.jpg,tap_water,Copper,50,IMG20261030132326_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132326_01.jpg,tap_water,Copper,50,IMG20261030132326_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132327 copy.jpg,tap_water,Copper,50,IMG20261030132327 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132327.jpg,tap_water,Copper,50,IMG20261030132327.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132328 copy.jpg,tap_water,Copper,50,IMG20261030132328 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Copper/Cu 50 muM/IMG20261030132328.jpg,tap_water,Copper,50,IMG20261030132328.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131124 copy.jpg,tap_water,Lead,10,IMG20261030131124 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131124.jpg,tap_water,Lead,10,IMG20261030131124.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131125 copy.jpg,tap_water,Lead,10,IMG20261030131125 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131125.jpg,tap_water,Lead,10,IMG20261030131125.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131126 copy.jpg,tap_water,Lead,10,IMG20261030131126 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131126.jpg,tap_water,Lead,10,IMG20261030131126.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131127 copy.jpg,tap_water,Lead,10,IMG20261030131127 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131127.jpg,tap_water,Lead,10,IMG20261030131127.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131127_01 copy.jpg,tap_water,Lead,10,IMG20261030131127_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 10 muM/IMG20261030131127_01.jpg,tap_water,Lead,10,IMG20261030131127_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131250 copy.jpg,tap_water,Lead,100,IMG20261030131250 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131250.jpg,tap_water,Lead,100,IMG20261030131250.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131250_01 copy.jpg,tap_water,Lead,100,IMG20261030131250_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131250_01.jpg,tap_water,Lead,100,IMG20261030131250_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131251 copy.jpg,tap_water,Lead,100,IMG20261030131251 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131251.jpg,tap_water,Lead,100,IMG20261030131251.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131252 copy.jpg,tap_water,Lead,100,IMG20261030131252 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131252.jpg,tap_water,Lead,100,IMG20261030131252.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131253 copy.jpg,tap_water,Lead,100,IMG20261030131253 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 100 muM/IMG20261030131253.jpg,tap_water,Lead,100,IMG20261030131253.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131515 copy.jpg,tap_water,Lead,150,IMG20261030131515 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131515.jpg,tap_water,Lead,150,IMG20261030131515.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131516 copy.jpg,tap_water,Lead,150,IMG20261030131516 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131516.jpg,tap_water,Lead,150,IMG20261030131516.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131516_01 copy.jpg,tap_water,Lead,150,IMG20261030131516_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131516_01.jpg,tap_water,Lead,150,IMG20261030131516_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131517 copy.jpg,tap_water,Lead,150,IMG20261030131517 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131517.jpg,tap_water,Lead,150,IMG20261030131517.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131518 copy.jpg,tap_water,Lead,150,IMG20261030131518 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 150 muM/IMG20261030131518.jpg,tap_water,Lead,150,IMG20261030131518.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131600 copy.jpg,tap_water,Lead,200,IMG20261030131600 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131600.jpg,tap_water,Lead,200,IMG20261030131600.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131601 copy.jpg,tap_water,Lead,200,IMG20261030131601 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131601.jpg,tap_water,Lead,200,IMG20261030131601.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131602 copy.jpg,tap_water,Lead,200,IMG20261030131602 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131602.jpg,tap_water,Lead,200,IMG20261030131602.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131603 copy.jpg,tap_water,Lead,200,IMG20261030131603 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131603.jpg,tap_water,Lead,200,IMG20261030131603.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131604 copy.jpg,tap_water,Lead,200,IMG20261030131604 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 200 muM/IMG20261030131604.jpg,tap_water,Lead,200,IMG20261030131604.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131644 copy.jpg,tap_water,Lead,250,IMG20261030131644 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131644.jpg,tap_water,Lead,250,IMG20261030131644.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131645 copy.jpg,tap_water,Lead,250,IMG20261030131645 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131645.jpg,tap_water,Lead,250,IMG20261030131645.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131646 copy.jpg,tap_water,Lead,250,IMG20261030131646 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131646.jpg,tap_water,Lead,250,IMG20261030131646.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131647 copy.jpg,tap_water,Lead,250,IMG20261030131647 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131647.jpg,tap_water,Lead,250,IMG20261030131647.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131648 copy.jpg,tap_water,Lead,250,IMG20261030131648 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 250 muM/IMG20261030131648.jpg,tap_water,Lead,250,IMG20261030131648.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131209 copy.jpg,tap_water,Lead,50,IMG20261030131209 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131209.jpg,tap_water,Lead,50,IMG20261030131209.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131209_01 copy.jpg,tap_water,Lead,50,IMG20261030131209_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131209_01.jpg,tap_water,Lead,50,IMG20261030131209_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131210 copy.jpg,tap_water,Lead,50,IMG20261030131210 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131210.jpg,tap_water,Lead,50,IMG20261030131210.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131211 copy.jpg,tap_water,Lead,50,IMG20261030131211 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131211.jpg,tap_water,Lead,50,IMG20261030131211.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131212 copy.jpg,tap_water,Lead,50,IMG20261030131212 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Lead/Pb 50 muM/IMG20261030131212.jpg,tap_water,Lead,50,IMG20261030131212.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123828 copy.jpg,tap_water,Mercury,10,IMG20261030123828 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123828.jpg,tap_water,Mercury,10,IMG20261030123828.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123829 copy.jpg,tap_water,Mercury,10,IMG20261030123829 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123829.jpg,tap_water,Mercury,10,IMG20261030123829.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123830 copy.jpg,tap_water,Mercury,10,IMG20261030123830 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123830.jpg,tap_water,Mercury,10,IMG20261030123830.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123831 copy.jpg,tap_water,Mercury,10,IMG20261030123831 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123831.jpg,tap_water,Mercury,10,IMG20261030123831.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123833 copy.jpg,tap_water,Mercury,10,IMG20261030123833 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 10 muM/IMG20261030123833.jpg,tap_water,Mercury,10,IMG20261030123833.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124008 copy.jpg,tap_water,Mercury,100,IMG20261030124008 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124008.jpg,tap_water,Mercury,100,IMG20261030124008.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124008_01 copy.jpg,tap_water,Mercury,100,IMG20261030124008_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124008_01.jpg,tap_water,Mercury,100,IMG20261030124008_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124009 copy.jpg,tap_water,Mercury,100,IMG20261030124009 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124009.jpg,tap_water,Mercury,100,IMG20261030124009.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124010 copy.jpg,tap_water,Mercury,100,IMG20261030124010 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124010.jpg,tap_water,Mercury,100,IMG20261030124010.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124011 copy.jpg,tap_water,Mercury,100,IMG20261030124011 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 100 muM/IMG20261030124011.jpg,tap_water,Mercury,100,IMG20261030124011.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124200 copy.jpg,tap_water,Mercury,150,IMG20261030124200 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124200.jpg,tap_water,Mercury,150,IMG20261030124200.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124201 copy.jpg,tap_water,Mercury,150,IMG20261030124201 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124201.jpg,tap_water,Mercury,150,IMG20261030124201.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124202 copy.jpg,tap_water,Mercury,150,IMG20261030124202 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124202.jpg,tap_water,Mercury,150,IMG20261030124202.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124203 copy.jpg,tap_water,Mercury,150,IMG20261030124203 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124203.jpg,tap_water,Mercury,150,IMG20261030124203.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124204 copy.jpg,tap_water,Mercury,150,IMG20261030124204 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 150 muM/IMG20261030124204.jpg,tap_water,Mercury,150,IMG20261030124204.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124248 copy.jpg,tap_water,Mercury,200,IMG20261030124248 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124248.jpg,tap_water,Mercury,200,IMG20261030124248.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124249 copy.jpg,tap_water,Mercury,200,IMG20261030124249 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124249.jpg,tap_water,Mercury,200,IMG20261030124249.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124250 copy.jpg,tap_water,Mercury,200,IMG20261030124250 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124250.jpg,tap_water,Mercury,200,IMG20261030124250.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124251 copy.jpg,tap_water,Mercury,200,IMG20261030124251 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124251.jpg,tap_water,Mercury,200,IMG20261030124251.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124252 copy.jpg,tap_water,Mercury,200,IMG20261030124252 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 200 muM/IMG20261030124252.jpg,tap_water,Mercury,200,IMG20261030124252.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124350 copy.jpg,tap_water,Mercury,250,IMG20261030124350 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124350.jpg,tap_water,Mercury,250,IMG20261030124350.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124351 copy.jpg,tap_water,Mercury,250,IMG20261030124351 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124351.jpg,tap_water,Mercury,250,IMG20261030124351.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124352 copy.jpg,tap_water,Mercury,250,IMG20261030124352 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124352.jpg,tap_water,Mercury,250,IMG20261030124352.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124352_01 copy.jpg,tap_water,Mercury,250,IMG20261030124352_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124352_01.jpg,tap_water,Mercury,250,IMG20261030124352_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124353 copy.jpg,tap_water,Mercury,250,IMG20261030124353 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 250 muM/IMG20261030124353.jpg,tap_water,Mercury,250,IMG20261030124353.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123923 copy.jpg,tap_water,Mercury,50,IMG20261030123923 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123923.jpg,tap_water,Mercury,50,IMG20261030123923.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123924 copy.jpg,tap_water,Mercury,50,IMG20261030123924 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123924.jpg,tap_water,Mercury,50,IMG20261030123924.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123925 copy.jpg,tap_water,Mercury,50,IMG20261030123925 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123925.jpg,tap_water,Mercury,50,IMG20261030123925.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123926 copy.jpg,tap_water,Mercury,50,IMG20261030123926 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123926.jpg,tap_water,Mercury,50,IMG20261030123926.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123926_01 copy.jpg,tap_water,Mercury,50,IMG20261030123926_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Mercury/Hg 50 muM/IMG20261030123926_01.jpg,tap_water,Mercury,50,IMG20261030123926_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125341 copy.jpg,tap_water,Palladium,10,IMG20261030125341 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125341.jpg,tap_water,Palladium,10,IMG20261030125341.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125342 copy.jpg,tap_water,Palladium,10,IMG20261030125342 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125342.jpg,tap_water,Palladium,10,IMG20261030125342.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125343 copy.jpg,tap_water,Palladium,10,IMG20261030125343 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125343.jpg,tap_water,Palladium,10,IMG20261030125343.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125344 copy.jpg,tap_water,Palladium,10,IMG20261030125344 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125344.jpg,tap_water,Palladium,10,IMG20261030125344.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125344_01 copy.jpg,tap_water,Palladium,10,IMG20261030125344_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 10 muM/IMG20261030125344_01.jpg,tap_water,Palladium,10,IMG20261030125344_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125552 copy.jpg,tap_water,Palladium,100,IMG20261030125552 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125552.jpg,tap_water,Palladium,100,IMG20261030125552.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125553 copy.jpg,tap_water,Palladium,100,IMG20261030125553 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125553.jpg,tap_water,Palladium,100,IMG20261030125553.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125554 copy.jpg,tap_water,Palladium,100,IMG20261030125554 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125554.jpg,tap_water,Palladium,100,IMG20261030125554.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125555 copy.jpg,tap_water,Palladium,100,IMG20261030125555 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125555.jpg,tap_water,Palladium,100,IMG20261030125555.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125555_01 copy.jpg,tap_water,Palladium,100,IMG20261030125555_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 100 muM/IMG20261030125555_01.jpg,tap_water,Palladium,100,IMG20261030125555_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130609 copy.jpg,tap_water,Palladium,150,IMG20261030130609 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130609.jpg,tap_water,Palladium,150,IMG20261030130609.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130610 copy.jpg,tap_water,Palladium,150,IMG20261030130610 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130610.jpg,tap_water,Palladium,150,IMG20261030130610.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130611 copy.jpg,tap_water,Palladium,150,IMG20261030130611 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130611.jpg,tap_water,Palladium,150,IMG20261030130611.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130612 copy.jpg,tap_water,Palladium,150,IMG20261030130612 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130612.jpg,tap_water,Palladium,150,IMG20261030130612.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130613 copy.jpg,tap_water,Palladium,150,IMG20261030130613 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 150 muM/IMG20261030130613.jpg,tap_water,Palladium,150,IMG20261030130613.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130648 copy.jpg,tap_water,Palladium,200,IMG20261030130648 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130648.jpg,tap_water,Palladium,200,IMG20261030130648.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130649 copy.jpg,tap_water,Palladium,200,IMG20261030130649 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130649.jpg,tap_water,Palladium,200,IMG20261030130649.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130650 copy.jpg,tap_water,Palladium,200,IMG20261030130650 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130650.jpg,tap_water,Palladium,200,IMG20261030130650.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130651 copy.jpg,tap_water,Palladium,200,IMG20261030130651 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130651.jpg,tap_water,Palladium,200,IMG20261030130651.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130652 copy.jpg,tap_water,Palladium,200,IMG20261030130652 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 200 muM/IMG20261030130652.jpg,tap_water,Palladium,200,IMG20261030130652.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130753 copy.jpg,tap_water,Palladium,250,IMG20261030130753 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130753.jpg,tap_water,Palladium,250,IMG20261030130753.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130754 copy.jpg,tap_water,Palladium,250,IMG20261030130754 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130754.jpg,tap_water,Palladium,250,IMG20261030130754.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130754_01 copy.jpg,tap_water,Palladium,250,IMG20261030130754_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130754_01.jpg,tap_water,Palladium,250,IMG20261030130754_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130755 copy.jpg,tap_water,Palladium,250,IMG20261030130755 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130755.jpg,tap_water,Palladium,250,IMG20261030130755.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130756 copy.jpg,tap_water,Palladium,250,IMG20261030130756 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 250 muM/IMG20261030130756.jpg,tap_water,Palladium,250,IMG20261030130756.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125424 copy.jpg,tap_water,Palladium,50,IMG20261030125424 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125424.jpg,tap_water,Palladium,50,IMG20261030125424.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125425 copy.jpg,tap_water,Palladium,50,IMG20261030125425 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125425.jpg,tap_water,Palladium,50,IMG20261030125425.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125426 copy.jpg,tap_water,Palladium,50,IMG20261030125426 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125426.jpg,tap_water,Palladium,50,IMG20261030125426.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125427 copy.jpg,tap_water,Palladium,50,IMG20261030125427 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125427.jpg,tap_water,Palladium,50,IMG20261030125427.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125427_01 copy.jpg,tap_water,Palladium,50,IMG20261030125427_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Palladium/Pd 50 muM/IMG20261030125427_01.jpg,tap_water,Palladium,50,IMG20261030125427_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120909 copy.jpg,tap_water,Silver,10,IMG20261030120909 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120909.jpg,tap_water,Silver,10,IMG20261030120909.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120910 copy.jpg,tap_water,Silver,10,IMG20261030120910 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120910.jpg,tap_water,Silver,10,IMG20261030120910.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120911 copy.jpg,tap_water,Silver,10,IMG20261030120911 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120911.jpg,tap_water,Silver,10,IMG20261030120911.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120912 copy.jpg,tap_water,Silver,10,IMG20261030120912 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120912.jpg,tap_water,Silver,10,IMG20261030120912.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120913 copy.jpg,tap_water,Silver,10,IMG20261030120913 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 10 muM/IMG20261030120913.jpg,tap_water,Silver,10,IMG20261030120913.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121253 copy.jpg,tap_water,Silver,100,IMG20261030121253 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121253.jpg,tap_water,Silver,100,IMG20261030121253.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121254 copy.jpg,tap_water,Silver,100,IMG20261030121254 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121254.jpg,tap_water,Silver,100,IMG20261030121254.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121255 copy.jpg,tap_water,Silver,100,IMG20261030121255 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121255.jpg,tap_water,Silver,100,IMG20261030121255.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121256 copy.jpg,tap_water,Silver,100,IMG20261030121256 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121256.jpg,tap_water,Silver,100,IMG20261030121256.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121258 copy.jpg,tap_water,Silver,100,IMG20261030121258 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 100 muM/IMG20261030121258.jpg,tap_water,Silver,100,IMG20261030121258.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121528 copy.jpg,tap_water,Silver,150,IMG20261030121528 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121528.jpg,tap_water,Silver,150,IMG20261030121528.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121528_01 copy.jpg,tap_water,Silver,150,IMG20261030121528_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121528_01.jpg,tap_water,Silver,150,IMG20261030121528_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121529 copy.jpg,tap_water,Silver,150,IMG20261030121529 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121529.jpg,tap_water,Silver,150,IMG20261030121529.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121530 copy.jpg,tap_water,Silver,150,IMG20261030121530 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121530.jpg,tap_water,Silver,150,IMG20261030121530.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121531 copy.jpg,tap_water,Silver,150,IMG20261030121531 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 150 muM/IMG20261030121531.jpg,tap_water,Silver,150,IMG20261030121531.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121808 copy.jpg,tap_water,Silver,200,IMG20261030121808 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121808.jpg,tap_water,Silver,200,IMG20261030121808.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121808_01 copy.jpg,tap_water,Silver,200,IMG20261030121808_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121808_01.jpg,tap_water,Silver,200,IMG20261030121808_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121809 copy.jpg,tap_water,Silver,200,IMG20261030121809 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121809.jpg,tap_water,Silver,200,IMG20261030121809.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121810 copy.jpg,tap_water,Silver,200,IMG20261030121810 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121810.jpg,tap_water,Silver,200,IMG20261030121810.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121811 copy.jpg,tap_water,Silver,200,IMG20261030121811 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 200 muM/IMG20261030121811.jpg,tap_water,Silver,200,IMG20261030121811.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121905 copy.jpg,tap_water,Silver,250,IMG20261030121905 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121905.jpg,tap_water,Silver,250,IMG20261030121905.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121906 copy.jpg,tap_water,Silver,250,IMG20261030121906 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121906.jpg,tap_water,Silver,250,IMG20261030121906.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121906_01 copy.jpg,tap_water,Silver,250,IMG20261030121906_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121906_01.jpg,tap_water,Silver,250,IMG20261030121906_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121907 copy.jpg,tap_water,Silver,250,IMG20261030121907 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121907.jpg,tap_water,Silver,250,IMG20261030121907.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121908 copy.jpg,tap_water,Silver,250,IMG20261030121908 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 250 muM/IMG20261030121908.jpg,tap_water,Silver,250,IMG20261030121908.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121112 copy.jpg,tap_water,Silver,50,IMG20261030121112 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121112.jpg,tap_water,Silver,50,IMG20261030121112.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121113 copy.jpg,tap_water,Silver,50,IMG20261030121113 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121113.jpg,tap_water,Silver,50,IMG20261030121113.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121114 copy.jpg,tap_water,Silver,50,IMG20261030121114 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121114.jpg,tap_water,Silver,50,IMG20261030121114.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121115 copy.jpg,tap_water,Silver,50,IMG20261030121115 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121115.jpg,tap_water,Silver,50,IMG20261030121115.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121115_01 copy.jpg,tap_water,Silver,50,IMG20261030121115_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Silver/Ag 50 muM/IMG20261030121115_01.jpg,tap_water,Silver,50,IMG20261030121115_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133127 copy.jpg,tap_water,Zinc,10,IMG20261030133127 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133127.jpg,tap_water,Zinc,10,IMG20261030133127.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133127_01 copy.jpg,tap_water,Zinc,10,IMG20261030133127_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133127_01.jpg,tap_water,Zinc,10,IMG20261030133127_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133128 copy.jpg,tap_water,Zinc,10,IMG20261030133128 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133128.jpg,tap_water,Zinc,10,IMG20261030133128.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133129 copy.jpg,tap_water,Zinc,10,IMG20261030133129 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133129.jpg,tap_water,Zinc,10,IMG20261030133129.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133130 copy.jpg,tap_water,Zinc,10,IMG20261030133130 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 10 muM/IMG20261030133130.jpg,tap_water,Zinc,10,IMG20261030133130.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133247 copy.jpg,tap_water,Zinc,100,IMG20261030133247 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133247.jpg,tap_water,Zinc,100,IMG20261030133247.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133248 copy.jpg,tap_water,Zinc,100,IMG20261030133248 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133248.jpg,tap_water,Zinc,100,IMG20261030133248.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133248_01 copy.jpg,tap_water,Zinc,100,IMG20261030133248_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133248_01.jpg,tap_water,Zinc,100,IMG20261030133248_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133249 copy.jpg,tap_water,Zinc,100,IMG20261030133249 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133249.jpg,tap_water,Zinc,100,IMG20261030133249.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133250 copy.jpg,tap_water,Zinc,100,IMG20261030133250 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 100 muM/IMG20261030133250.jpg,tap_water,Zinc,100,IMG20261030133250.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133447 copy.jpg,tap_water,Zinc,150,IMG20261030133447 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133447.jpg,tap_water,Zinc,150,IMG20261030133447.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133448 copy.jpg,tap_water,Zinc,150,IMG20261030133448 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133448.jpg,tap_water,Zinc,150,IMG20261030133448.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133448_01 copy.jpg,tap_water,Zinc,150,IMG20261030133448_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133448_01.jpg,tap_water,Zinc,150,IMG20261030133448_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133449 copy.jpg,tap_water,Zinc,150,IMG20261030133449 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133449.jpg,tap_water,Zinc,150,IMG20261030133449.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133450 copy.jpg,tap_water,Zinc,150,IMG20261030133450 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 150 muM/IMG20261030133450.jpg,tap_water,Zinc,150,IMG20261030133450.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133525 copy.jpg,tap_water,Zinc,200,IMG20261030133525 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133525.jpg,tap_water,Zinc,200,IMG20261030133525.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133526 copy.jpg,tap_water,Zinc,200,IMG20261030133526 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133526.jpg,tap_water,Zinc,200,IMG20261030133526.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133527 copy.jpg,tap_water,Zinc,200,IMG20261030133527 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133527.jpg,tap_water,Zinc,200,IMG20261030133527.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133528 copy.jpg,tap_water,Zinc,200,IMG20261030133528 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133528.jpg,tap_water,Zinc,200,IMG20261030133528.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133529 copy.jpg,tap_water,Zinc,200,IMG20261030133529 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 200 muM/IMG20261030133529.jpg,tap_water,Zinc,200,IMG20261030133529.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133606 copy.jpg,tap_water,Zinc,250,IMG20261030133606 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133606.jpg,tap_water,Zinc,250,IMG20261030133606.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133607 copy.jpg,tap_water,Zinc,250,IMG20261030133607 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133607.jpg,tap_water,Zinc,250,IMG20261030133607.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133607_01 copy.jpg,tap_water,Zinc,250,IMG20261030133607_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133607_01.jpg,tap_water,Zinc,250,IMG20261030133607_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133609 copy.jpg,tap_water,Zinc,250,IMG20261030133609 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133609.jpg,tap_water,Zinc,250,IMG20261030133609.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133609_01 copy.jpg,tap_water,Zinc,250,IMG20261030133609_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 250 muM/IMG20261030133609_01.jpg,tap_water,Zinc,250,IMG20261030133609_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133208 copy.jpg,tap_water,Zinc,50,IMG20261030133208 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133208.jpg,tap_water,Zinc,50,IMG20261030133208.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133208_01 copy.jpg,tap_water,Zinc,50,IMG20261030133208_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133208_01.jpg,tap_water,Zinc,50,IMG20261030133208_01.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133209 copy.jpg,tap_water,Zinc,50,IMG20261030133209 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133209.jpg,tap_water,Zinc,50,IMG20261030133209.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133210 copy.jpg,tap_water,Zinc,50,IMG20261030133210 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133210.jpg,tap_water,Zinc,50,IMG20261030133210.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133210_01 copy.jpg,tap_water,Zinc,50,IMG20261030133210_01 copy.jpg
+/Users/royalsn/PHD/Work/MTFINet/real_world_spiking/data/Tap_Water/Zinc/Zn 50 muM/IMG20261030133210_01.jpg,tap_water,Zinc,50,IMG20261030133210_01.jpg

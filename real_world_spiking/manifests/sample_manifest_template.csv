@@ -1,0 +1,9 @@
+image_path,water_matrix,spiked_metal,spiked_concentration_uM,replicate_id
+data/tap_water/tap_Copper_50uM_rep1.jpg,tap_water,Copper,50,1
+data/tap_water/tap_Copper_50uM_rep2.jpg,tap_water,Copper,50,2
+data/tap_water/tap_Lead_100uM_rep1.jpg,tap_water,Lead,100,1
+data/tap_water/tap_Lead_100uM_rep2.jpg,tap_water,Lead,100,2
+data/tap_water/tap_Blank_0uM_rep1.jpg,tap_water,Copper,0,1
+data/sea_water/sea_Copper_50uM_rep1.jpg,sea_water,Copper,50,1
+data/sea_water/sea_Lead_100uM_rep1.jpg,sea_water,Lead,100,1
+data/sea_water/sea_Blank_0uM_rep1.jpg,sea_water,Copper,0,1
