@@ -46,3 +46,8 @@ build/
 dist/
 *.egg-info/
 !real_world_spiking/results/figures/*.png
+
+# Private raw spectrometer files & scripts (not shared)
+results/spectrometer_data/
+results/figures/jasco_fp8550_emission_spectrum.png
+scripts/plot_spectrometer.py
